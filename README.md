@@ -41,7 +41,7 @@ Follow these steps to set up and run this e-commerce platform on your local mach
 **Clone the Repository**
 
 ```bash
-https://github.com/naimuddin01/bistro-boss-client.git
+https://github.com/naimuddin01/hall-management-client.git
 ```
 
 **Install project dependencies:**
@@ -80,13 +80,13 @@ VITE_appId= your-project-appId
 ```
 
 # **Set Up the Backend and Database**
-**Here is the Backend Code :** [Backend](https://github.com/naimuddin01/bistro-boss-server) 
+**Here is the Backend Code :** [Backend](https://github.com/naimuddin01/hall-management-server/tree/main) 
 
 Provide step-by-step instructions on how to install and set up your project. Include any necessary commands or configuration steps. For example:
 
 **Clone the Repository**
 ```bash
-https://github.com/naimuddin01/bistro-boss-server.git
+https://github.com/naimuddin01/hall-management-server.git
 ```
 
 **Install project dependencies:**
